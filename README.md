@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# knob_versi1
-=======
 # Premium Canvas Knob Widget
 
 A high-performance, lightweight UI component built using **HTML5 Canvas** and **Vanilla JavaScript**. This project is a replica of the "Arrow Pointer" knob from the jQWidgets library, designed with modern aesthetics and smooth interaction.
