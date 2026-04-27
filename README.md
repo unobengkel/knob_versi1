@@ -2,7 +2,7 @@
 
 A high-performance, lightweight UI component built using **HTML5 Canvas** and **Vanilla JavaScript**. This project is a replica of the "Arrow Pointer" knob from the jQWidgets library, designed with modern aesthetics and smooth interaction.
 
-![Preview](https://raw.githubusercontent.com/placeholder-user/placeholder-repo/main/preview.png) *(Note: Add your own screenshot here)*
+![Preview](https://raw.githubusercontent.com/placeholder-user/placeholder-repo/main/preview.PNG) *(Note: Add your own screenshot here)*
 
 ## 🚀 Features
 
