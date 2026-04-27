@@ -1,0 +1,12 @@
+.knob-container {
+    display: inline-block;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: none;
+}
+
+.knob-container canvas {
+    display: block;
+    cursor: pointer;
+}
